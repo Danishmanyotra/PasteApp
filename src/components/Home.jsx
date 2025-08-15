@@ -69,7 +69,7 @@ const Home = () => {
        
         
     </div>
-   <div className='mt-8 m-[162px]'>
+   <div className='mt-8 flex justify-center'>
         <textarea className='rounded-2xl mt-4 w-[71%] p-4 border text-xl'
             value={value}
             placeholder="Enter Content Here:"
